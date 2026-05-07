@@ -18,8 +18,8 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ftp-laurido.alwaysdata.net # Change if using another host
-          username: ${{ laurido }}
-          password: ${{ antho221 }}
+          username: laurido 
+          password: antho221 
           server-dir: www/ # Replace with your correct path
           protocol: ftps
           timeout: 86400000
