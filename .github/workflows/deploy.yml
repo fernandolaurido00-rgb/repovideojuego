@@ -19,7 +19,7 @@ jobs:
         with:
           server:  ftp-laurido.alwaysdata.net # Change if using another host
           username: laurido 
-          password: antho221 
+          password: antho2216 
           server-dir: www/ # Replace with your correct path
           protocol: ftps
           timeout: 86400000
